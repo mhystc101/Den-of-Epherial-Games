@@ -5,7 +5,6 @@ includes comments
 2 weeks
 26+ total hours
 (First major project)
-------------------
 Features
 ------------------
 -bank which stores csv file locally, which saves a dict which stores name and credits and gives the user the corresponding credit accoring to set name.
