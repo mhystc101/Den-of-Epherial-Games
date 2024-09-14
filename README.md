@@ -8,7 +8,7 @@ includes comments,
 
 Features
 ------------------
-bank that stores csv file locally which saves a dict which stores name and credits and gives the user the corresponding credit accoring to set name.
+Bank that stores csv file locally which saves a dict which stores name and credits and gives the user the corresponding credit accoring to set name.
 -----------------
 blackjack
 -----------------
@@ -19,7 +19,7 @@ Crash with custom algorithm (randomized crash point ----> exponenital growth wit
 bank 
 -------------------
 etc
-------------------
+
 
 Ver.0.2 will have
 ------------------
