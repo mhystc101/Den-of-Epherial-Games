@@ -14,7 +14,7 @@ dice 3 sided and 6 sided
 Crash with custom algorithm (randomized crash point ----> exponenital growth with numpy to said crash point -----> displayed growth with sys -------> function to stop growth with threading) the goal of the game is to stop before the rocket crashes.
 bank 
 etc
-------------------
+
 Ver.0.2 will have
 ------------------
 -1-2+ gamemodes
