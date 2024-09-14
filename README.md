@@ -8,7 +8,7 @@ includes comments,
 
 Features
 ------------------
-bank which stores csv file locally, which saves a dict which stores name and credits and gives the user the corresponding credit accoring to set name.
+bank that stores csv file locally which saves a dict which stores name and credits and gives the user the corresponding credit accoring to set name.
 blackjack
 dice 3 sided and 6 sided
 Crash with custom algorithm (randomized crash point ----> exponenital growth with numpy to said crash point -----> displayed growth with sys -------> function to stop growth with threading) the goal of the game is to stop before the rocket crashes.
