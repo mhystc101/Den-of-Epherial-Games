@@ -4,7 +4,7 @@ PYTHON 900 LINES
 includes comments
 2 weeks
 26+ total hours
-(First major project didnt know how to use most of the modules.)
+(First major project)
 ------------------
 Features
 ------------------
